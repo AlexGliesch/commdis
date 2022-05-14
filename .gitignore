@@ -1,0 +1,6 @@
+.vscode/
+*.o
+*.d
+src/out.txt
+src/pre.h.gch
+src/commdis
